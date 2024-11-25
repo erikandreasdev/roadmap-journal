@@ -11,10 +11,14 @@
             "id": "d80f6b72642827e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Software Design & Architecture/Clean Code.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Clean Code"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Design & Architecture/Clean Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Clean Code"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Design & Architecture/Clean Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Clean Code"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Software Design & Architecture/Clean Code.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Clean Code"
             }
           }
         ]
@@ -156,6 +164,10 @@
   },
   "active": "d80f6b72642827e8",
   "lastOpenFiles": [
+    "Software Design & Architecture/Clean Code.md",
+    "Backend/Internet.md",
+    "Backend",
+    "Software Design & Architecture",
     "Welcome.md"
   ]
 }
